@@ -1,0 +1,1 @@
+This repo showcases a Retail Billing Automation System built in C++ 💻. It leverages data structures and algorithms to efficiently manage billing processes, inventory tracking, and customer data. Perfect for exploring how C++ can be used in real-world applications with a focus on performance and scalability. 📈
